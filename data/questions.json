@@ -51,10 +51,10 @@
     {
         "question": "How can we ………. the barriers of fear and hostility which divide the two communities?",
         "options": [
-            { "text": "obstruct", "isCorrect": true },
+            { "text": "obstruct", "isCorrect": false },
             { "text": "abandon", "isCorrect": false },
             { "text": "put out", "isCorrect": false },
-            { "text": "wearout", "isCorrect": false }
+            { "text": "break down", "isCorrect": true }
         ]
     },
 
@@ -103,7 +103,7 @@
         "options": [
             { "text": "robust", "isCorrect": false },
             { "text": "limber", "isCorrect": false },
-            { "text": "rigid", "isCorrect": false },
+            { "text": "rigid", "isCorrect": true },
             { "text": "accurate", "isCorrect": false }
         ]
     },
@@ -112,9 +112,9 @@
        "question": "The …… earthquake left a lot of people homeless.",
         "options": [
             { "text": "dramatic", "isCorrect": false },
-            { "text": "dormant", "isCorrect": true },
+            { "text": "dormant", "isCorrect": false },
             { "text": "rudimentary", "isCorrect": false },
-            { "text": "devastating", "isCorrect": false }
+            { "text": "devastating", "isCorrect": true }
         ] 
     }
 
